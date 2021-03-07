@@ -1,7 +1,6 @@
 # Termux-Official
-# Welcome Coyy
 
-Jangan Lupa Follow Github Gw Ya Slurr, Bagi Yang Sudah Follow Makasih Ya :)
+Jgn lupa follow guys;) 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Anak-IT&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anak-IT&theme=red&hide_langs_below=1" />
 
