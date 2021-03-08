@@ -1,5 +1,5 @@
 # Termux-Official
-<a href="https://ibb.co/m0tCGgh"><img src="https://i.ibb.co/f9tY2Lr/images-21.jpg" alt="images-21" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>add url free</a><br />
+<a href="https://ibb.co/m0tCGgh"><img src="https://i.ibb.co/f9tY2Lr/images-21.jpg" alt="images-21" border="0" Height = "200" Width = "200" ></a>
 Jgn lupa follow guys;) 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Termux-ofc&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Termux-ofc&theme=red&hide_langs_below=1" />
